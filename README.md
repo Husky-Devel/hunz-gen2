@@ -1,3 +1,3 @@
 # hunz-gen2
 
-HuskyNZ's repo for site Gen2 or HuskyNZ's new home site
+This repo is depracated and has been moved here https://github.com/HuskyNZofficial/hunzg2 This is now a Arcive
